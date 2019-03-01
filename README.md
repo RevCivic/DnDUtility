@@ -14,3 +14,7 @@ that I may bundle into a proper database to package with the product.
 Another goal for the initiative tracker is to properly handle taking and dealing damage. This is more for fun than it is for
 usability, as I know people prefer to have real dice rolls and not digital, though the tool would help me greatly when running
 an online game.
+
+Feature Ideas <a href="https://docs.google.com/document/d/1an41ex39Q86Vagl6wNFch3RoW6gFCNA5jQ-TO2Q7uh4/edit?usp=sharing">here</a>
+
+To run this, compile to a java file and run or downlaod <a href="https://drive.google.com/file/d/1h1MUS6IO72yX5EAMh2pfVjMToT_ELNrJ/view?usp=sharing">here</a>
